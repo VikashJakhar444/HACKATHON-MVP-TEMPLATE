@@ -88,3 +88,17 @@ This file stores significant product, architectural, technical, UX, and scope de
 - **Reason**: Ensures every MVP interface is clean, professional, credible, accessible, and optimized for judges without forcing a monoculture aesthetic.
 - **Consequences**: AI agents establish visual tokens and component behaviors before writing code, resulting in polished, credible, and demo-ready interfaces.
 - **Status**: ACTIVE
+
+---
+
+### DEC-007: Human-Centered UX & Visual Quality Standards (Phase 3F)
+- **Timestamp**: [2026-10-01 10:40:00 +05:30]
+- **Decision**: Establish authoritative human-centered interaction, behavioral UX, cognitive ergonomics, trust design, and visual polish standards in `docs/04-product/HUMAN_CENTERED_UX_RULES.md`.
+- **Context**: Ensure that AI-engineered MVPs achieve high perceived quality, cognitive ease (recognition over recall, progressive disclosure, chunking), immediate feedback, transparent reasoning, actionable copywriting, result-first layout architecture, and strict ethical UX (zero dark patterns) under 24-hour hackathon constraints.
+- **Alternatives Considered**:
+  - *Relying only on technical design tokens*: Fails to address microcopy clarity, cognitive load, user mental models, authentic trust design, or demo comprehension.
+  - *Implementing decorative visual polish (animations, heavy glassmorphism, flashy sound/visual effects)*: Creates distraction, increases failure risks, obscures real product value, and gives an artificial "AI-generated" appearance.
+- **Selected Approach**: Define operational principles for premium visual quality, functional minimalism, cognitive ergonomics, error prevention/recovery, data honesty, result-first UI, and ethical design with a 12-point audit checklist.
+- **Reason**: Elevates the user and judge experience to enterprise-grade credibility while maintaining minimal viable complexity.
+- **Consequences**: Interfaces built from this template are immediately intuitive, trustworthy, accessible, and optimized for live demonstration.
+- **Status**: ACTIVE
