@@ -38,7 +38,7 @@ This document represents the active state of the project. Unlike `.ai/BRAIN.md`,
 - **Application Code**: Not started (`src/`, `tests/`, `scripts/`, `assets/`, `data/` remain clean and empty).
 - **Dependencies & Environments**: None installed (zero overhead).
 - **External Research**: None performed.
-- **Git Repository**: Not initialized.
+- **Git Repository**: Initialized and published (`origin/main` -> `https://github.com/VikashJakhar444/HACKATHON-MVP-TEMPLATE.git`).
 
 ---
 
